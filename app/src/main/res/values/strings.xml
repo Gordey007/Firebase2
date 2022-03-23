@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="events">Events</string>
+    <string name="сredit_сard">Кредитная карта</string>
+    <string name="debit_card">Дебетовая карта</string>
+    <string name="close_card">Закрыть карту</string>
+    <string name="card_close_response">Введите \'да\'/\'нет\'</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="authorization">Авторизация</string>
+    <string name="registration">Регистрация</string>
+    <string name="share_stories">Поделиться историей</string>
+    <string name="link_card">Привязать карту</string>
+    <string name="take_loan">Взять кредит</string>
+</resources>
